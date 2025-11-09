@@ -1,17 +1,18 @@
-# 👨‍💻 Thomas Camargo
+**`Desenvolvedor Front-end & Java`** 👨‍💻
 
-**`Desenvolvedor Front-end & Java`**
+<p align="center">
+  <a href="https://github.com/thomascamargo2024">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Thomas%20camargo%20de%20santana;&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/thomascamargo2024">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;1%2B%20years%20of%20coding%20experience;&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 Olá! Sou Thomas Camargo, 25 anos, natural de São Paulo. Desde cedo me interessei por tecnologia e programação, Atualmente, estudo Análise e Desenvolvimento de Sistemas na Unisa - UNIVERSIDADE SANTO AMARO, e busco constantemente aprender novas tecnologias e desenvolver projetos que unam criatividade e funcionalidade.
 
 <p align="left">
-    <a href="https://github.com/thomascsantana">
-        <img 
-            alt="GitHub seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/thomascsantana?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
     <a href="https://github.com/thomascsantana?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -67,41 +68,54 @@ Olá! Sou Thomas Camargo, 25 anos, natural de São Paulo. Desde cedo me interess
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="GitHub" 
+    title="GitHub"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySql" 
+    title="MySql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
 />
 
 <br/>
 <br/>
 
+<hr/>
+
+<br/>
+
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=thomascsantana&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomascamargo2024&show_icons=true&locale=en&layout=compact" alt="thomascamargo2024" />
 
-<img 
-      align="left" 
-      alt="Top Linguagens" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomascsantana&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
+<p> 
+<img align="center" 
+width="335px" 
+style="padding-left: 10px;" 
+src="https://github-readme-stats.vercel.app/api?username=thomascamargo2024&show_icons=true&locale=en" alt="thomascamargo2024" /></p>
+
 </p>
 
 ---
 
-### 🚀 Projetos em destaque
+### 🚀 Projetos em breve
 
-- **Projeto Front-end:** [Link do repositório](#) – Criação de interfaces responsivas usando HTML, CSS e JS.  
-- **Sistema em Java:** [Link do repositório](#) – Aplicação de back-end em Java conectando lógica de negócios e banco de dados.  
+- **Projeto Front-end:** [👨‍💻----](#) – Criação de interfaces responsivas usando HTML, CSS e JS.  
+- **Sistema de receitas em Java:** [👨‍💻----](#) – Aplicação de back-end em Java.  
 
 > Em breve mais projetos incríveis aqui!  
 
@@ -110,8 +124,7 @@ Olá! Sou Thomas Camargo, 25 anos, natural de São Paulo. Desde cedo me interess
 ### 📫 Contato
 
 - GitHub: [thomascsantana](https://github.com/thomascamargo2024)  
-- LinkedIn: [Thomas Camargo](#)  
+- LinkedIn: [Thomas Camargo](https://www.linkedin.com/in/thomas-camargo-95166a29b/)  
 - Email: thomacamargo@gmail.com  
 
 ---
-
