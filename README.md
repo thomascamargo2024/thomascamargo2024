@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;1%2B%20years%20of%20coding%20experience;&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-Olá! Sou Thomas Camargo, 25 anos, natural de São Paulo. Desde cedo me interessei por tecnologia e programação, Atualmente, estudo Análise e Desenvolvimento de Sistemas na Unisa - UNIVERSIDADE SANTO AMARO, e busco constantemente aprender novas tecnologias e desenvolver projetos que unam criatividade e funcionalidade.
+Olá! Sou Thomas Camargo, 26 anos, natural de São Paulo. Desde cedo me interessei por tecnologia e programação, Atualmente, estudo Análise e Desenvolvimento de Sistemas na Unisa - UNIVERSIDADE SANTO AMARO, e busco constantemente aprender novas tecnologias e desenvolver projetos que unam criatividade e funcionalidade.
 
 <p align="left">
     <a href="https://github.com/thomascsantana?tab=repositories&sort=stargazers">
