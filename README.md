@@ -91,6 +91,24 @@ Olá! Sou Thomas Camargo, 26 anos, natural de São Paulo. Desde cedo me interess
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
 />
 
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Tailwind CSS"
+    title="Tailwind CSS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
+/>
+
 <br/>
 <br/>
 
@@ -124,7 +142,7 @@ src="https://github-readme-stats.vercel.app/api?username=thomascamargo2024&show_
 ### 📫 Contato
 
 - GitHub: [thomascsantana](https://github.com/thomascamargo2024)  
-- LinkedIn: [Thomas Camargo](https://www.linkedin.com/in/thomas-camargo-95166a29b/)  
+- LinkedIn: [Thomas Camargo](https://www.linkedin.com/in/thomas-camargo-6981743b7/)  
 - Email: thomacamargo@gmail.com  
 
 ---
