@@ -2,147 +2,100 @@
 
 <p align="center">
   <a href="https://github.com/thomascamargo2024">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Thomas%20camargo%20de%20santana;&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Thomas%20Camargo;&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&pause=1000&size=22" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/thomascamargo2024">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;1%2B%20years%20of%20coding%20experience;&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
-Olá! Sou Thomas Camargo, 26 anos, natural de São Paulo. Desde cedo me interessei por tecnologia e programação, Atualmente, estudo Análise e Desenvolvimento de Sistemas na Unisa - UNIVERSIDADE SANTO AMARO, e busco constantemente aprender novas tecnologias e desenvolver projetos que unam criatividade e funcionalidade.
-
-<p align="left">
-    <a href="https://github.com/thomascsantana?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/thomascsantana?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;Construindo%20projetos%20reais;Evoluindo%20todos%20os%20dias🚀;&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 👋 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySql" 
-    title="MySql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
-/>
+Olá! Sou **Thomas Camargo**, desenvolvedor em formação com foco em desenvolvimento **Full Stack**.
 
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💡 Apaixonado por tecnologia e resolução de problemas reais
+🚀 Atualmente focado em evoluir com projetos práticos e profissionais
 
-<img 
-    align="left" 
-    alt="Tailwind CSS"
-    title="Tailwind CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
-/>
+---
+
+## 🚀 Tecnologias
+
+<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Tailwind" width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 <br/>
 <br/>
 
-<hr/>
+---
 
-<br/>
+## 📊 Estatísticas
 
-### 📊 Estatísticas
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomascamargo2024&show_icons=true&locale=en&layout=compact" alt="thomascamargo2024" />
-
-<p> 
-<img align="center" 
-width="335px" 
-style="padding-left: 10px;" 
-src="https://github-readme-stats.vercel.app/api?username=thomascamargo2024&show_icons=true&locale=en" alt="thomascamargo2024" /></p>
-
-</p>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=thomascamargo2024&show_icons=true&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomascamargo2024&layout=compact&theme=tokyonight"/>
 
 ---
 
-### 🚀 Projetos em breve
+## 🚀 Projeto Destaque
 
-- **Projeto Front-end:** [👨‍💻----](#) – Criação de interfaces responsivas usando HTML, CSS e JS.  
-- **Sistema de receitas em Java:** [👨‍💻----](#) – Aplicação de back-end em Java.  
+### 📚 Loop Livraria (Full Stack)
 
-> Em breve mais projetos incríveis aqui!  
+🔗 **Repositório:**
+👉 https://github.com/Loop-codes/LoopLibrary_Front-end
+
+💡 **Sobre o projeto:**
+Sistema completo de livraria digital desenvolvido para resolver um problema real: facilitar o acesso e leitura de livros online.
+
+⚙️ **Funcionalidades:**
+
+* 📖 Listagem e busca de livros
+* 🔎 Filtro por categorias
+* 📚 Leitura online
+* 🔐 Integração com back-end
+
+🛠️ **Tecnologias utilizadas:**
+
+* Front-end: React + Tailwind
+* Back-end: Java (Spring Boot)
+* Banco de dados: MySQL
+
+🚀 **O que aprendi com esse projeto:**
+
+* Integração entre front-end e back-end
+* Consumo de APIs REST
+* Organização de código em projeto real
+* Versionamento com Git em equipe
 
 ---
 
-### 📫 Contato
+## 📌 Outros Projetos
 
-- GitHub: [thomascsantana](https://github.com/thomascamargo2024)  
-- LinkedIn: [Thomas Camargo](https://www.linkedin.com/in/thomas-camargo-6981743b7/)  
-- Email: thomacamargo@gmail.com  
+### 💻 Sistema de Receitas (Java)
+
+Aplicação backend para gerenciamento de receitas.
+
+### 🎨 Projetos Front-end
+
+Interfaces responsivas utilizando HTML, CSS e JavaScript.
 
 ---
+
+## 📫 Contato
+
+* 💼 LinkedIn: https://www.linkedin.com/in/thomas-camargo-6981743b7/
+* 🐙 GitHub: https://github.com/thomascamargo2024
+* 📧 Email: [thomacamargo@gmail.com](mailto:thomacamargo@gmail.com)
+
+---
+
+⭐ *"Sempre evoluindo um commit por vez."*
