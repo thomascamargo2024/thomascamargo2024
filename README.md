@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/thomascamargo2024">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Thomas%20Camargo;&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Thomas%20Camargo&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;Construindo%20projetos%20reais;Evoluindo%20todos%20os%20dias🚀;&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;Construindo%20projetos%20reais;Evoluindo%20todos%20os%20dias%F0%9F%9A%80&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
