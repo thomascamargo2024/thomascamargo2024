@@ -1,4 +1,4 @@
-**`Desenvolvedor Front-end & Java`** 👨‍💻
+**` Desenvolvedor Full-stack `** 👨‍💻
 
 <p align="center">
   <a href="https://github.com/thomascamargo2024">
